@@ -23,6 +23,12 @@ the dataset contains these columns:
 
 10. oceanProximity: Location of the house w.r.t ocean/sea
 
-# Data Preparation (Data cleaning - Data processing - Exploratory Data Analysis)
-# python(pandas - nmpy - seaborn - matplotlib)
-# power BI (create Dashboard)
+# Data Preparation.
+Data cleaning - Data processing - Exploratory Data Analysis
+# python
+pandas - nmpy - seaborn - matplotlib
+# power BI.
+create Dashboard
+# Dataset link :
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
+ 
